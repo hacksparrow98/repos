@@ -4,3 +4,12 @@ unrealONE/Intermediate/
 unrealONE/Saved/
 .VC.db
 *.VC.db
+
+unrealONE/.vs/unrealONE/v15/
+unrealONE/Config/DefaultInput.ini
+unrealONE/Content/unrealONEGameModeBase_BP.uasset
+unrealONE/Content/Sound/door-lock.uasset
+unrealONE/Content/Openable_Door_BP.uasset
+unrealONE/Content/MyunrealONEGameModeBase_123.uasset
+unrealONE/Content/MyunrealONEGameModeBase.uasset
+unrealONE/Content/DefaultPawn_BP.uasset
